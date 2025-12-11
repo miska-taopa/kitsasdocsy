@@ -18,4 +18,4 @@ Ohjelmiston uusi versio on ladattavissa Windowsille, Linuxille ja Macille osoitt
 
 Version tunnuskukka on atsalea.
 
-<img src="/img/versions/v11atsalea.png" class="img-responsive"/>
+<img src="/img/versions/v511atsalea.png" class="img-responsive"/>
