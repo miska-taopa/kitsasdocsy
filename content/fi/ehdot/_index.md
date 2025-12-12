@@ -98,7 +98,7 @@ Kitsas Oy voi käyttää palveluidensa toteuttamisessa alihankkijoita, jotka ilm
 
 #### 4g. Kumppani käyttäjätuen toteuttamisessa
 
-Kitsas Oy tarjoaa ohjelmiston käyttäjätuen yhteistyössä Talouden Ohjelmistopalvelut Taopa Oy:n kanssa. Kitsas Oy myöntää käyttösitoutumuksen tehneelle käyttäjätuen henkilöstölle yksilöidyt, henkilökohtaiset käyttöoikeudet tuen tarjoamisen kannalta tarpeellisiin tietojärjestelmiin.
+Kitsas Oy tarjoaa ohjelmiston käyttäjätuen yhteistyössä Talouden Ohjelmistopalvelut Finland Oy:n kanssa. Kitsas Oy myöntää käyttösitoutumuksen tehneelle käyttäjätuen henkilöstölle yksilöidyt, henkilökohtaiset käyttöoikeudet tuen tarjoamisen kannalta tarpeellisiin tietojärjestelmiin.
 
 #### 4h. Kitsas Oy henkilötietojen käsittelijänä
 
@@ -308,7 +308,7 @@ Kitsas Oy voi käyttää palveluidensa toteuttamisessa alihankkijoita, jotka ilm
 
 #### 4g. Kumppani käyttäjätuen toteuttamisessa
 
-Kitsas Oy tarjoaa ohjelmiston käyttäjätuen yhteistyössä Talouden Ohjelmistopalvelut Taopa Oy:n kanssa. Kitsas Oy myöntää käyttösitoutumuksen tehneelle käyttäjätuen henkilöstölle yksilöidyt, henkilökohtaiset käyttöoikeudet tuen tarjoamisen kannalta tarpeellisiin tietojärjestelmiin.
+Kitsas Oy tarjoaa ohjelmiston käyttäjätuen yhteistyössä Talouden Ohjelmistopalvelut Finland Oy:n kanssa. Kitsas Oy myöntää käyttösitoutumuksen tehneelle käyttäjätuen henkilöstölle yksilöidyt, henkilökohtaiset käyttöoikeudet tuen tarjoamisen kannalta tarpeellisiin tietojärjestelmiin.
 
 #### 4h. Kitsas Oy henkilötietojen käsittelijänä
 
