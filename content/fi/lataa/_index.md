@@ -40,7 +40,7 @@ Lataa Kitsas maksutta tietokoneellesi
             <span class="fa fa-download"></span>&nbsp;Lataa</a>
         </p>            
         <p style="margin-top: 1ex;">Lataa asennusohjelma ja käynnistä se. </p>
-        <p>Valitse asennettava versio tilauksesi mukaan:</p>
+        <p>Valitse asennettava versio:</p>
         <ul style="display: inline-block; text-align: left;">
           <li>Pro-tilaajat: <b>Kitsas Pro</b></li>
           <li>Muut käyttäjät: <b>Perusversio</b></li>
